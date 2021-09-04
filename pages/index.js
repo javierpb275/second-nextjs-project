@@ -1,4 +1,4 @@
-function HomePage(props) {
+const HomePage = (props) => {
   return (
     <ul>
       <li>Product 1</li>
